@@ -2,3 +2,6 @@
 
 Autorización de Auth0 para angular
 
+* Dependencias:
+    * Auth0
+    * bootstrap
