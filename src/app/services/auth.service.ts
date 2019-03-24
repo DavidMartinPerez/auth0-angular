@@ -11,8 +11,8 @@ export class AuthService {
   public userProfile: any;
 
   auth0 = new auth0.WebAuth({
-    clientID: 'jqoF39OpY0rHTtgrqrgyHBlRRk6Nz6jM',
-    domain: 'davililloperez.eu.auth0.com',
+    clientID: 'xxxx',
+    domain: 'xxxx',
     responseType: 'token id_token',
     redirectUri: 'http://localhost:4200/callback',
     expire: this._expiresAt,
